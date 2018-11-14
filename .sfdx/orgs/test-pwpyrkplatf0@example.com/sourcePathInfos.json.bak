@@ -32,14 +32,14 @@
     [
         "C:\\SalesForce\\geolocation\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesForce\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1542209997062,
             "changeTime": 1542209997062,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
@@ -281,14 +281,14 @@
     [
         "C:\\SalesForce\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\SalesForce\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
+            "size": 155,
+            "modifiedTime": 1542209561418,
+            "changeTime": 1542209561418,
+            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
             "isMetadataFile": false,
-            "size": 156,
-            "modifiedTime": 1542210176354,
-            "changeTime": 1542210176354,
-            "contentHash": "072d065795f8efa28a39be67d6c7010bb8a12b70"
+            "state": "u"
         }
     ],
     [
@@ -385,92 +385,92 @@
     [
         "C:\\SalesForce\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesForce\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1542209997058,
             "changeTime": 1542209997058,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
         }
     ],
     [
         "C:\\SalesForce\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesForce\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 5016,
             "modifiedTime": 1542209997065,
             "changeTime": 1542209997065,
-            "contentHash": "b2b544ad2e99c14072e4bfdeb68699b788f40af7",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "b2b544ad2e99c14072e4bfdeb68699b788f40af7"
         }
     ],
     [
         "C:\\SalesForce\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesForce\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4676,
             "modifiedTime": 1542209997070,
             "changeTime": 1542209997070,
-            "contentHash": "fd1e6c74f4e46833342e9c7c9d74cc3af3fded29",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "fd1e6c74f4e46833342e9c7c9d74cc3af3fded29"
         }
     ],
     [
         "C:\\SalesForce\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesForce\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4680,
             "modifiedTime": 1542209997075,
             "changeTime": 1542209997075,
-            "contentHash": "87ba65b89e99b40ff6ed5546407705fc6a63aaa5",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "87ba65b89e99b40ff6ed5546407705fc6a63aaa5"
         }
     ],
     [
         "C:\\SalesForce\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesForce\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 18199,
             "modifiedTime": 1542209997088,
             "changeTime": 1542209997088,
-            "contentHash": "5123388c414ceef0986f36f8d529b47c9abf733d",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "5123388c414ceef0986f36f8d529b47c9abf733d"
         }
     ],
     [
         "C:\\SalesForce\\geolocation\\force-app\\main\\default\\tabs",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesForce\\geolocation\\force-app\\main\\default\\tabs",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1542209997057,
             "changeTime": 1542209997057,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
         }
     ],
     [
         "C:\\SalesForce\\geolocation\\force-app\\main\\default\\profiles",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesForce\\geolocation\\force-app\\main\\default\\profiles",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1542209997087,
             "changeTime": 1542209997087,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
